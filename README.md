@@ -1,2 +1,2 @@
 # dbchanges
-All students db codes are listed
+All students db codes are tested
